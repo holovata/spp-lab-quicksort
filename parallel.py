@@ -11,10 +11,7 @@ class Solver:
         print("Job Started: Parallel QuickSort")
         print(f"Workers: {len(self.workers)}")
 
-        # Чтение данных из файла
         array = self.read_input()
-
-        # Определяем размер подмассивов для каждого воркера
         step = len(array) // len(self.workers)
         mapped = []
 
@@ -31,7 +28,6 @@ class Solver:
         reduced = self.myreduce(mapped)
         print("Reduce phase completed.")
 
-        # Записываем результат
         self.write_output(reduced)
         print("Job Finished: Result written to output file.")
 
@@ -52,12 +48,9 @@ class Solver:
         return sorted(sum(sorted_parts, []))
 
     def read_input(self):
-        f = open(self.input_file_name, 'r')  # Открытие файла
-        try:
-            array = list(map(int, f.readline().strip().split()))  # Чтение и обработка данных
-            print(f"Input data read: {len(array)} numbers")
-        finally:
-            f.close()  # Закрытие файла, даже если возникнет ошибка
+        f = open(self.input_file_name, 'r')
+        array = list(map(int, f.readline().strip().split()))
+        f.close()
         return array
 
     def write_output(self, output):
