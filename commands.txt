@@ -1,0 +1,11 @@
+gcloud compute firewall-rules create allow-all --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=all --source-ranges=0.0.0.0/0 
+
+gcloud compute instances create-with-container master --container-image=registry.hub.docker.com/hummer12007/parcs-node --container-env PARCS_ARGS=“master”
+
+10.166.0.2
+
+gcloud compute instances create-with-container worker1 --container-image=registry.hub.docker.com/hummer12007/parcs-node --container-env PARCS_ARGS=“worker 10.166.0.2”
+
+gcloud compute instances create-with-container worker2 worker3 worker4 --container-image=registry.hub.docker.com/hummer12007/parcs-node --container-env PARCS_ARGS=“worker 10.166.0.2”
+
+http://34.88.179.11:8080/index
