@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e624e363-056a-4b98-86f9-41c1265cf080" name="Changes" comment="struggling">
+      <change beforePath="$PROJECT_DIR$/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generate_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_100000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_1000000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input_1000000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_50000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_500000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input_500000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parallel.py" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;holovata&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/holovata/spp-lab-quicksort.git&quot;,
+    &quot;accountId&quot;: &quot;c75db887-3fac-4da6-b3fc-98a89cda9dfd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2sGH0dcSvVILhZBNNi9GA5JaNmF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.generate_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.single.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e624e363-056a-4b98-86f9-41c1265cf080" name="Changes" comment="" />
+      <created>1738074769614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738074769614</updated>
+    </task>
+    <task id="LOCAL-00001" summary="struggling">
+      <option name="closed" value="true" />
+      <created>1738353528036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738353528036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="struggling" />
+    <option name="LAST_COMMIT_MESSAGE" value="struggling" />
+  </component>
+</project>
