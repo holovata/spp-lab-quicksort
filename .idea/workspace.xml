@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e624e363-056a-4b98-86f9-41c1265cf080" name="Changes" comment="struggling">
-      <change beforePath="$PROJECT_DIR$/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/generate_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_100000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_1000000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input_1000000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_50000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input_500000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input_500000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parallel.py" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.py" beforeDir="false" />
-    </list>
+    <list default="true" id="e624e363-056a-4b98-86f9-41c1265cf080" name="Changes" comment="struggling" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
